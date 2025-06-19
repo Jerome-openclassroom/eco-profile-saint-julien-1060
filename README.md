@@ -40,6 +40,17 @@ This repository documents a detailed eco-climatological inventory of a 1-hectare
 - **Small mammals**: voles
 - **Insects**: zygoptera, anisoptera, probable hummingbird hawk-moth
 
+## 🔬 Soil Microfauna (Berlèse Funnel Extraction)
+
+Three specimens were extracted from leaf litter collected in the adjacent mixed beech–fir forest. A Berlèse funnel was used to isolate the microarthropods, which were then imaged under a stereomicroscope using digiscoping with a millimetric grid for scale reference (note: slight shape deformation may occur due to alcohol preservation).
+
+- **Collembola.JPG** — Typical Collembola (springtail), abundant in moist organic layers.
+- **Oribatida.JPG** — Oribatid mite, indicative of active litter decomposition.
+- **Pseudoscorpionida.JPG** — Pseudoscorpion, small predatory arthropod, marker of well-balanced soil biodiversity.
+
+This microfaunal set provides a snapshot of soil ecosystem health and trophic interactions in semi-natural montane litter.
+
+
 ## 🔧 Instruments & Observational Tools
 
 | Tool | Description | Use |
@@ -66,6 +77,7 @@ This site illustrates a high-altitude microclimate and ecosystem in transition b
 
 - `/data`: raw Excel datasets (climate, observations)
 - `/figures`: diagrams, climate visuals
+- `/microfauna`: 3 specimens
 - `README.md`: this document
 - `eco_summary_english.pdf`: printable summary
 - `meta-context.txt`: AGI-related contextual intent
