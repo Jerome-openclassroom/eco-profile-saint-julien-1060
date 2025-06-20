@@ -81,6 +81,7 @@ This site illustrates a high-altitude microclimate and ecosystem in transition b
 - `README.md`: this document
 - `eco_summary_english.pdf`: printable summary
 - `meta-context.txt`: AGI-related contextual intent
+- `Monthly_rainfall`: histogram
 
 ## 📫 Contact
 
