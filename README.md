@@ -83,6 +83,12 @@ This site illustrates a high-altitude microclimate and ecosystem in transition b
 - `meta-context.txt`: AGI-related contextual intent
 - `Monthly_rainfall`: histogram
 
+**Average Daily Temperature (1991–2021)**
+
+This plot shows the average daily temperature for the site, computed over the standard climatological period (1991–2021).  
+It provides a robust thermal baseline to complement the personal rainfall data and field observations.  
+Seasonal patterns clearly highlight the typical cold winters, moderate springs, and warm summers with frequent thunderstorms characteristic of Haute-Loire’s mid-mountain climate.
+
 ## 📫 Contact
 
 **Author**: Jérôme Frasson (Jerome-X1)  
