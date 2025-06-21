@@ -34,10 +34,10 @@ This repository documents a detailed eco-climatological inventory of a 1-hectare
 
 ## 🐾 Fauna Observed
 
-- **Mammals**: roe deer, hares, wild boar, foxes, moles, bats.
+- **Mammals**: roe deer, hares, wild boar, foxes, bats.
 - **Birds**: red kite, owls (undetermined)
 - **Herpetofauna**: amphibians, vipers or grass snakes
-- **Small mammals**: voles
+- **Small mammals**: voles, moles.
 - **Insects**: zygoptera, anisoptera, probable hummingbird hawk-moth
 
 **Additionnal note :**
