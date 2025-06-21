@@ -34,11 +34,14 @@ This repository documents a detailed eco-climatological inventory of a 1-hectare
 
 ## 🐾 Fauna Observed
 
-- **Mammals**: roe deer, hares, wild boar, bats
+- **Mammals**: roe deer, hares, wild boar, foxes, moles, bats.
 - **Birds**: red kite, owls (undetermined)
 - **Herpetofauna**: amphibians, vipers or grass snakes
 - **Small mammals**: voles
 - **Insects**: zygoptera, anisoptera, probable hummingbird hawk-moth
+
+**Additionnal note :**
+Confirmed presence of the fox (*Vulpes vulpes*) and reported presence of the wolf (*Canis lupus*) indicate that the site supports a fully functional trophic chain, from microfauna to top predators. This highlights the value of the surrounding forest-prairie mosaic as a corridor and refuge for species requiring large, connected habitats.
 
 ## 🔬 Soil Microfauna (Berlèse Funnel Extraction)
 
