@@ -78,13 +78,38 @@ This site illustrates a high-altitude microclimate and ecosystem in transition b
 
 ## 📁 Repository Contents
 
-- `/data`: raw Excel datasets (climate, observations)
-- `/figures`: diagrams, climate visuals
-- `/microfauna`: 3 specimens
-- `README.md`: this document
-- `eco_summary_english.pdf`: printable summary
-- `meta-context.txt`: AGI-related contextual intent
-- `Monthly_rainfall`: histogram
+```plaintext
+eco-profile-saint-julien-1060/
+│
+├── climate_curves/              # Climatic plots and charts
+│   ├── Average Daily temp.png   # Daily mean temperatures (1991–2021)
+│   ├── Average max temp.png     # Average maximum temperature
+│   ├── Average min temp.png     # Average minimum temperature
+│   ├── Monthly_rainfall.png     # Monthly precipitation totals
+│
+├── english_summary/
+│   ├── eco_summary_english.pdf  # Printable 2-page summary (English)
+│
+├── microfauna/                  # Soil microarthropods photos
+│   ├── Collembola.JPG           # Springtail (indicator of moist litter)
+│   ├── Oribatida.JPG            # Oribatid mite (litter decomposer)
+│   ├── Pseudoscorpionida.JPG    # Pseudoscorpion (small predator)
+│
+├── raw_data_observations/       # Original field data
+│   ├── Observations.xlsx        # Field notes (flora, fauna, weather)
+│   ├── Pluviométrie.xlsx        # Manually recorded rainfall data
+│
+├── weather_pictures/            # Local weather and extreme events
+│   ├── big_hail_centimeters_1.JPG  # Large hailstones (scale reference)
+│   ├── big_hail_centimeters_2.JPG  # Another view of large hailstones
+│   ├── cumulonimbus_incus.JPG      # Mature thunderstorm cloud (anvil)
+│   ├── freezing_mist_ice_needles.JPG # Ice needles from freezing mist
+│   ├── mammatus_storm.JPG          # Mammatus clouds (severe storm sign)
+│   ├── rainbow_at_sunset.JPG       # Rainbow over the bocage at sunset
+│   ├── sunset_inversion_layer.JPG  # Sunset with visible thermal inversion
+│
+└── README.md                   # Project description and context
+
 
 **Average Daily Temperature (1991–2021)**
 
