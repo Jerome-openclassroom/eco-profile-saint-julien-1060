@@ -107,8 +107,11 @@ eco-profile-saint-julien-1060/
 │   ├── mammatus_storm.JPG          # Mammatus clouds (severe storm sign)
 │   ├── rainbow_at_sunset.JPG       # Rainbow over the bocage at sunset
 │   ├── sunset_inversion_layer.JPG  # Sunset with visible thermal inversion
+│   ├── 📑 **Metadata:** [weather_pictures/metadata.json](weather_pictures/metadata.json)
+│
 │
 └── README.md                   # Project description and context
+
 
 
 **Average Daily Temperature (1991–2021)**
