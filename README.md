@@ -78,7 +78,7 @@ This site illustrates a high-altitude microclimate and ecosystem in transition b
 
 ## 📁 Repository Contents
 
-```plaintext
+
 eco-profile-saint-julien-1060/
 │
 ├── climate_curves/              # Climatic plots and charts
