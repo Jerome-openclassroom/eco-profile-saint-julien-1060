@@ -77,7 +77,8 @@ This site illustrates a high-altitude microclimate and ecosystem in transition b
 - Demonstrate **fieldwork competence beyond institutional frameworks**
 
 ## 📁 Repository Contents
-''plaintext
+
+```plaintext
 
 eco-profile-saint-julien-1060/
 │
@@ -112,7 +113,7 @@ eco-profile-saint-julien-1060/
 │
 └── README.md                   # Project description and context
 
-
+```
 
 **Average Daily Temperature (1991–2021)**
 
