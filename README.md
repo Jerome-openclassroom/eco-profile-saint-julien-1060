@@ -36,6 +36,24 @@ The profile revealed approximately **10 distinct internal layers**, indicating s
 📁 *Image, plot profile, and source data are stored in:*  
 `weather_picture/hailstone_37mm_july2022.png/`
 
+🧭 Sensory observation – Electric–sulfur transition
+
+A distinct smell was noticed after the hailstorm of July 3rd, 2022:  
+**not as sharp as the metallic “arc” odor** detected during the 2018 heatwave storm,  
+but also **more sulfurous and burnt than simple ozone**.
+
+Closest analogy: **burning the head of a vintage matchstick**.
+
+This places the olfactory signature between:
+- **Arc discharge / ozone odor** (like welding or a nearby transformer)
+- and **sulfur combustion trace** (typical of old match ignition)
+
+🌩️ Such sensory events may indicate:
+- intense electrical discharges during hail formation,
+- high oxidation of atmospheric compounds (N/S/O),
+- and vertical movement of trace gases from cloud core to ground.
+
+
 ## 🌿 Floristic Inventory (April–May 2018)
 
 | Date       | Species |
