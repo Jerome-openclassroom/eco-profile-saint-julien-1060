@@ -22,6 +22,20 @@ This repository documents a detailed eco-climatological inventory of a 1-hectare
 - October 2017: dry (20 mm), gusts up to 76 km/h
 - Mean temperature estimate: ~8.5°C; frequent frost; strong day/night amplitude
 
+## 📸 Weather Event – Hailstorm of July 3rd, 2022
+
+A violent hailstorm struck Saint-Julien-Chapteuil (Haute-Loire, France) on **July 3rd, 2022**, causing severe damage to homes, vehicles, public buildings, and agricultural structures. This short but intense event (~30 minutes) was locally unprecedented.
+
+A **hailstone measuring 37 mm in diameter** was collected and photographed immediately after the event. The image (available in the `weather_picture/` folder) was analyzed using **ImageJ**. After grayscale conversion and axis alignment, a linear plot profile was extracted across its diameter.
+
+🧪 **Result**:  
+The profile revealed approximately **10 distinct internal layers**, indicating successive cycles of supercooling and accretion. Each layer likely corresponds to a vertical thermal oscillation during the convective uplift of the hail embryo within the cumulonimbus cell.
+
+📊 This hailstone can be considered a **natural stratigraphic tracer** of intracloud convection. It offers insight into the storm’s vertical dynamics and complements meteorological observations from that day.
+
+📁 *Image, plot profile, and source data are stored in:*  
+`weather_picture/hailstone_37mm_july2022.png/`
+
 ## 🌿 Floristic Inventory (April–May 2018)
 
 | Date       | Species |
@@ -108,6 +122,7 @@ eco-profile-saint-julien-1060/
 │   ├── mammatus_storm.JPG          # Mammatus clouds (severe storm sign)
 │   ├── rainbow_at_sunset.JPG       # Rainbow over the bocage at sunset
 │   ├── sunset_inversion_layer.JPG  # Sunset with visible thermal inversion
+│   ├── hailstone_37mm_july2022.png # ImageJ plot profile of internal grayscale intensity across a 37 mm hailstone
 │   ├── 📑 **Metadata:** [weather_pictures/metadata.json](weather_pictures/metadata.json)
 │
 │
