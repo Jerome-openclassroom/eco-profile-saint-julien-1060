@@ -16,6 +16,12 @@ This repository documents a detailed eco-climatological inventory of a 1-hectare
 - **Manual observations** (2017–2018): daily rainfall and weather notes
 - **Supplementary temperature data**: Mazet-Saint-Voy station (12 km, same elevation) source : https://www.infoclimat.fr
 
+### **Average Daily Temperature (1991–2021)**
+
+This plot shows the average daily temperature for the site, computed over the standard climatological period (1991–2021).  
+It provides a robust thermal baseline to complement the personal rainfall data and field observations.  
+Seasonal patterns clearly highlight the typical cold winters, moderate springs, and warm summers with frequent thunderstorms characteristic of Haute-Loire’s mid-mountain climate.
+
 ### Notable Events
 - Summer 2017: storms (up to 38 mm in 24h)
 - September 21st 2017: early frost
@@ -148,11 +154,7 @@ eco-profile-saint-julien-1060/
 
 ```
 
-**Average Daily Temperature (1991–2021)**
 
-This plot shows the average daily temperature for the site, computed over the standard climatological period (1991–2021).  
-It provides a robust thermal baseline to complement the personal rainfall data and field observations.  
-Seasonal patterns clearly highlight the typical cold winters, moderate springs, and warm summers with frequent thunderstorms characteristic of Haute-Loire’s mid-mountain climate.
 
 🔗 Related project:
 
