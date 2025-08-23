@@ -150,7 +150,9 @@ eco-profile-saint-julien-1060/
 │   ├── 📑 **Metadata:** [weather_pictures/metadata.json](weather_pictures/metadata.json)
 │
 │
-└── README.md                   # Project description and context
+└── README.md                   # Project description and context english version
+│
+└── README_fr.md                # Project description and context french version
 
 ```
 
