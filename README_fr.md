@@ -153,7 +153,9 @@ eco-profile-saint-julien-1060/
 │   ├── 📑 **Méta-données :** [weather_pictures/metadata.json](weather_pictures/metadata.json)
 │
 │
-└── README.md                   # Description et contexte du projet
+└── README.md                   # Description et contexte du projet version anglaise
+│
+└── README_fr.md                   # Description et contexte du projet version française
 ```
 
 🔗 Projet lié :
