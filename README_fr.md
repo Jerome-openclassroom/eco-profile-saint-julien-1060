@@ -155,7 +155,8 @@ eco-profile-saint-julien-1060/
 │
 └── README.md                   # Description et contexte du projet version anglaise
 │
-└── README_fr.md                   # Description et contexte du projet version française
+└── README_fr.md                # Description et contexte du projet version française
+
 ```
 
 🔗 Projet lié :
